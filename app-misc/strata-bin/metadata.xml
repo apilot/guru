@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE pkgmetadata SYSTEM "https://www.gentoo.org/dtd/metadata.dtd">
+<pkgmetadata>
+	<maintainer type="person">
+		<email>a.boyarinov@gmail.com</email>
+		<name>Alexey Boyarinov</name>
+	</maintainer>
+	<upstream>
+		<bugs-to>https://github.com/lgse/strata/issues</bugs-to>
+		<doc>https://github.com/lgse/strata/tree/main/docs</doc>
+		<remote-id type="github">lgse/strata</remote-id>
+	</upstream>
+	<longdescription>
+		Strata is a keyboard-first file manager for Wayland/Linux desktops,
+		combining spatial Miller-column navigation with Icons and List views,
+		instant fuzzy filename search, rich sandboxed (bubblewrap) previews
+		and native desktop integration. Written in Rust on GTK4, designed
+		for Hyprland-based environments.
+	</longdescription>
+</pkgmetadata>
